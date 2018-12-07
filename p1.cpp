@@ -28,4 +28,7 @@ cout<<" hello\n";
 base *b = new derived;
 b->fun();
 return 0;
+
+
+
 }
